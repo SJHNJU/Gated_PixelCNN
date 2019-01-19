@@ -11,4 +11,12 @@ https://arxiv.org/abs/1606.05328
 
 ***对文章里提出的mask做了小的改变***
 
-## 结果
+## Result
+![Ground Truth]
+(https://github.com/SJHNJU/Gated_PixelCNN/tree/master/fig/1.png)
+
+![occulsion]
+(https://github.com/SJHNJU/Gated_PixelCNN/tree/master/fig/2.png)
+
+![output]
+(https://github.com/SJHNJU/Gated_PixelCNN/tree/master/fig/3.png)
