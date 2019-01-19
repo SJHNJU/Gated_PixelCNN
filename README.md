@@ -12,12 +12,12 @@ https://arxiv.org/abs/1606.05328
 ***对文章里提出的mask做了小的改变***
 
 ## Result
-![Ground Truth](https://raw.githubusercontent.com/SJHNJU/Gated_PixelCNN/master/fig/1.png)
+![Ground Truth](https://raw.githubusercontent.com/SJHNJU/Gated_PixelCNN/master/fig/1.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/300)
 
 
 
-![occulsion](https://raw.githubusercontent.com/SJHNJU/Gated_PixelCNN/master/fig/2.png)
+![occulsion](https://raw.githubusercontent.com/SJHNJU/Gated_PixelCNN/master/fig/2.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/300)
 
 
 
-![output](https://raw.githubusercontent.com/SJHNJU/Gated_PixelCNN/master/fig/3.png)
+![output](https://raw.githubusercontent.com/SJHNJU/Gated_PixelCNN/master/fig/3.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/300)
